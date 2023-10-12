@@ -1,0 +1,11 @@
+test_that("deal_cards_to_grid works", {
+  card_grid <- deal_cards_to_grid(n = 3)
+  expect_equal(length(card_grid), 2)
+  expect_true(inherits(card_grid[[1]], "matrix"))
+  expect_true(inherits(card_grid[[1]][[1]], "StandardDeck"))
+  expect_true(inherits(card_grid[[1]][[1]], "ShuffledDeck"))
+  expect_true(inherits(card_grid[[1]][[1]], "data.frame"))
+  expect_s3_class(card_grid[[2]], "StandardDeck")
+  expect_s3_class(card_grid[[2]], "ShuffledDeck")
+  expect_s3_class(card_grid[[2]], "data.frame")
+})
