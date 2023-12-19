@@ -1,6 +1,6 @@
 Package: mmirestriktor
 Title: Informative Hypothesis Testing Web Applications
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Mackson", "Ncube", , "macksonncube.stats@gmail.com", role = c("aut", "cre")),
     person("mightymetrika, LLC", role = c("cph", "fnd"))
@@ -25,9 +25,9 @@ Imports: DT, MASS, mmcards, restriktor, shiny, shinythemes
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-12-07 19:45:14 UTC; Administrator
+Packaged: 2023-12-18 23:26:27 UTC; Administrator
 Author: Mackson Ncube [aut, cre],
   mightymetrika, LLC [cph, fnd]
 Maintainer: Mackson Ncube <macksonncube.stats@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-12-07 20:10:02 UTC
+Date/Publication: 2023-12-19 02:30:02 UTC
