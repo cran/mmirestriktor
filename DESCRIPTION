@@ -1,6 +1,6 @@
 Package: mmirestriktor
 Title: Informative Hypothesis Testing Web Applications
-Version: 0.2.1
+Version: 0.3.0
 Authors@R: c(
     person("Mackson", "Ncube", , "macksonncube.stats@gmail.com", role = c("aut", "cre")),
     person("mightymetrika, LLC", role = c("cph", "fnd"))
@@ -18,16 +18,17 @@ Description: Offering enhanced statistical power compared to traditional
     on guidelines in Vanbrabant and Rosseel (2020) <doi:10.4324/9780429273872-14>.
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 URL: https://github.com/mightymetrika/mmirestriktor
 BugReports: https://github.com/mightymetrika/mmirestriktor/issues
-Imports: DT, MASS, mmcards, restriktor, shiny, shinythemes
+Imports: DT, MASS, mmcards, pool, restriktor, RPostgres, shiny,
+        shinythemes
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-12-18 23:26:27 UTC; Administrator
+Packaged: 2024-06-23 17:20:30 UTC; Administrator
 Author: Mackson Ncube [aut, cre],
   mightymetrika, LLC [cph, fnd]
 Maintainer: Mackson Ncube <macksonncube.stats@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-12-19 02:30:02 UTC
+Date/Publication: 2024-06-23 17:30:01 UTC
