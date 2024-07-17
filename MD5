@@ -1,7 +1,7 @@
-dd21a272139de2317e75fafd3ea3f1d0 *DESCRIPTION
+5897b7a10080e6c6687ff1a928fb7fa2 *DESCRIPTION
 c030a881b898e0fb94ad4fd2dd2ccccb *LICENSE
 06e43037b14d8ba3ffe000f37e7895d4 *NAMESPACE
-be3e66846d33b21c83a563f9834ea865 *R/app.R
+9c567232263dc13c5119b6dcc4375845 *R/app.R
 1fa3f98b809e7fb0e924f6b58edd7c84 *R/fbc_game_mgmt.R
 537c670afb1d6e29d6fe5b54cccea330 *R/game.R
 30a6509f14440cc10d13cdd5c98a9f67 *R/helpers.R
@@ -10,8 +10,8 @@ d7dda0c4ff04f6e2e25e9ff2e56a619c *R/mmir_model.R
 8c4a18cb61865df7ef0fa5a6e152fed3 *R/replext.R
 8d9ba99638b7068bbbcdfccd112a8c11 *R/replext_funcs.R
 6709ddce739da8bfb8130afc3754760c *R/replext_helpers.R
-76003c700bb684859506f157dca50f04 *R/replext_helpers_pgsql.R
-132a702ec276db6be3fbc64f37f25786 *R/replext_pgsql.R
+a087cd06f35364c89533b857ce2f8dc4 *R/replext_helpers_pgsql.R
+6aaa79200eb6dd49f65ac1fdd8a0840e *R/replext_pgsql.R
 cba986636724f1359d46bae8a9b34108 *R/replext_table_cells.R
 50283633697cdda01687bc9c701b1b5a *README.md
 c29b28f3eceb7284d141163e3bd37736 *inst/www/10_of_clubs.png
@@ -71,6 +71,7 @@ ee03fcf36da5ea64fc23b3bd2d615fda *man/FbarCards.Rd
 e111bc24f1373948a007b5abd398438d *man/appendInputParams_pgsql.Rd
 5aec6d501a642d201eae5993739c6654 *man/d_eq_spaced.Rd
 e1c24155d6d4d0adb50a240c816df4d0 *man/deal_cards_to_grid.Rd
+f8f178fdcefae549bb54fe6a9e6fc374 *man/format_citation.Rd
 29a78f052284d8e8b0d83a7bf143bf60 *man/generate_datasets.Rd
 36e9ecb295e1e9fdf1c82880042213b1 *man/generate_datasets_reg.Rd
 10ed6ccc57ff6bb5bdb9b91a983e0849 *man/getCellBlocks.Rd
